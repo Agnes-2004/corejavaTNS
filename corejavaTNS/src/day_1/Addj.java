@@ -14,6 +14,8 @@ System.out.println("Enter the value of B:");
 int b=s.nextInt();
 int c=a+b;
 System.out.println("The result="+c);
+int d=a-b;
+System.out.println("The result="+d);
  
 	}
 
